@@ -1,0 +1,45 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: grey;
+}
+#time{
+   margin-top: 200px;
+    text-align: center;
+}
+.digit{
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+}
+#btn{
+    text-align: center;
+    padding: 20px;
+}
+#start{
+    background-color: yellow;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+#stop{
+    background-color: blue;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+#reset{
+    background-color: green;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+.txt{
+    color: white;
+}
